@@ -7,8 +7,7 @@
             <div class="position-relative search-bar d-lg-block d-none" data-bs-toggle="modal"
                 data-bs-target="#SearchModal">
                 <input class="form-control px-5" disabled type="search" placeholder="Search">
-                <span
-                    class="position-absolute top-50 search-show translate-middle-y fs-5 start-0 ms-3"><i
+                <span class="position-absolute top-50 search-show translate-middle-y fs-5 start-0 ms-3"><i
                         class='bx bx-search'></i></span>
             </div>
 
@@ -26,37 +25,37 @@
                                 alt="">
                         </a>
                         <ul class="dropdown-menu dropdown-menu-end">
-                            <li><a class="dropdown-item d-flex align-items-center py-2"
-                                    href="javascript:;"><img src="assets/images/county/01.png" width="20"
-                                        alt=""><span class="ms-2">English</span></a>
+                            <li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img
+                                        src="assets/images/county/01.png" width="20" alt=""><span
+                                        class="ms-2">English</span></a>
                             </li>
-                            <li><a class="dropdown-item d-flex align-items-center py-2"
-                                    href="javascript:;"><img src="assets/images/county/02.png" width="20"
-                                        alt=""><span class="ms-2">Catalan</span></a>
+                            <li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img
+                                        src="assets/images/county/02.png" width="20" alt=""><span
+                                        class="ms-2">Catalan</span></a>
                             </li>
-                            <li><a class="dropdown-item d-flex align-items-center py-2"
-                                    href="javascript:;"><img src="assets/images/county/03.png" width="20"
-                                        alt=""><span class="ms-2">French</span></a>
+                            <li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img
+                                        src="assets/images/county/03.png" width="20" alt=""><span
+                                        class="ms-2">French</span></a>
                             </li>
-                            <li><a class="dropdown-item d-flex align-items-center py-2"
-                                    href="javascript:;"><img src="assets/images/county/04.png" width="20"
-                                        alt=""><span class="ms-2">Belize</span></a>
+                            <li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img
+                                        src="assets/images/county/04.png" width="20" alt=""><span
+                                        class="ms-2">Belize</span></a>
                             </li>
-                            <li><a class="dropdown-item d-flex align-items-center py-2"
-                                    href="javascript:;"><img src="assets/images/county/05.png" width="20"
-                                        alt=""><span class="ms-2">Colombia</span></a>
+                            <li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img
+                                        src="assets/images/county/05.png" width="20" alt=""><span
+                                        class="ms-2">Colombia</span></a>
                             </li>
-                            <li><a class="dropdown-item d-flex align-items-center py-2"
-                                    href="javascript:;"><img src="assets/images/county/06.png" width="20"
-                                        alt=""><span class="ms-2">Spanish</span></a>
+                            <li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img
+                                        src="assets/images/county/06.png" width="20" alt=""><span
+                                        class="ms-2">Spanish</span></a>
                             </li>
-                            <li><a class="dropdown-item d-flex align-items-center py-2"
-                                    href="javascript:;"><img src="assets/images/county/07.png" width="20"
-                                        alt=""><span class="ms-2">Georgian</span></a>
+                            <li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img
+                                        src="assets/images/county/07.png" width="20" alt=""><span
+                                        class="ms-2">Georgian</span></a>
                             </li>
-                            <li><a class="dropdown-item d-flex align-items-center py-2"
-                                    href="javascript:;"><img src="assets/images/county/08.png" width="20"
-                                        alt=""><span class="ms-2">Hindi</span></a>
+                            <li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img
+                                        src="assets/images/county/08.png" width="20" alt=""><span
+                                        class="ms-2">Hindi</span></a>
                             </li>
                         </ul>
                     </li>
@@ -101,8 +100,8 @@
                                         <a href="javascript:;">
                                             <div class="app-box text-center">
                                                 <div class="app-icon">
-                                                    <img src="assets/images/app/google-drive.png"
-                                                        width="30" alt="">
+                                                    <img src="assets/images/app/google-drive.png" width="30"
+                                                        alt="">
                                                 </div>
                                                 <div class="app-name">
                                                     <p class="mb-0 mt-1">Dribble</p>
@@ -140,8 +139,8 @@
                                         <a href="javascript:;">
                                             <div class="app-box text-center">
                                                 <div class="app-icon">
-                                                    <img src="assets/images/app/stack-overflow.png"
-                                                        width="30" alt="">
+                                                    <img src="assets/images/app/stack-overflow.png" width="30"
+                                                        alt="">
                                                 </div>
                                                 <div class="app-name">
                                                     <p class="mb-0 mt-1">Stack</p>
@@ -179,8 +178,8 @@
                                         <a href="javascript:;">
                                             <div class="app-box text-center">
                                                 <div class="app-icon">
-                                                    <img src="assets/images/app/google-calendar.png"
-                                                        width="30" alt="">
+                                                    <img src="assets/images/app/google-calendar.png" width="30"
+                                                        alt="">
                                                 </div>
                                                 <div class="app-name">
                                                     <p class="mb-0 mt-1">Calendar</p>
@@ -205,8 +204,8 @@
                                         <a href="javascript:;">
                                             <div class="app-box text-center">
                                                 <div class="app-icon">
-                                                    <img src="assets/images/app/google-photos.png"
-                                                        width="30" alt="">
+                                                    <img src="assets/images/app/google-photos.png" width="30"
+                                                        alt="">
                                                 </div>
                                                 <div class="app-name">
                                                     <p class="mb-0 mt-1">Photos</p>
@@ -313,8 +312,8 @@
                     </li>
 
                     <li class="nav-item dropdown dropdown-large">
-                        <a class="nav-link dropdown-toggle dropdown-toggle-nocaret position-relative"
-                            href="#" data-bs-toggle="dropdown"><span class="alert-count">7</span>
+                        <a class="nav-link dropdown-toggle dropdown-toggle-nocaret position-relative" href="#"
+                            data-bs-toggle="dropdown"><span class="alert-count">7</span>
                             <i class='bx bx-bell'></i>
                         </a>
                         <div class="dropdown-menu dropdown-menu-end">
@@ -332,8 +331,7 @@
                                                 alt="user avatar">
                                         </div>
                                         <div class="flex-grow-1">
-                                            <h6 class="msg-name">Daisy Anderson<span
-                                                    class="msg-time float-end">5 sec
+                                            <h6 class="msg-name">Daisy Anderson<span class="msg-time float-end">5 sec
                                                     ago</span></h6>
                                             <p class="msg-info">The standard chunk of lorem</p>
                                         </div>
@@ -358,8 +356,7 @@
                                                 alt="user avatar">
                                         </div>
                                         <div class="flex-grow-1">
-                                            <h6 class="msg-name">Althea Cabardo <span
-                                                    class="msg-time float-end">14
+                                            <h6 class="msg-name">Althea Cabardo <span class="msg-time float-end">14
                                                     sec ago</span></h6>
                                             <p class="msg-info">Many desktop publishing packages</p>
                                         </div>
@@ -372,8 +369,8 @@
                                                 alt="user avatar">
                                         </div>
                                         <div class="flex-grow-1">
-                                            <h6 class="msg-name">Account Created<span
-                                                    class="msg-time float-end">28 min
+                                            <h6 class="msg-name">Account Created<span class="msg-time float-end">28
+                                                    min
                                                     ago</span></h6>
                                             <p class="msg-info">Successfully created new email</p>
                                         </div>
@@ -397,8 +394,7 @@
                                                 alt="user avatar">
                                         </div>
                                         <div class="flex-grow-1">
-                                            <h6 class="msg-name">Katherine Pechon <span
-                                                    class="msg-time float-end">15
+                                            <h6 class="msg-name">Katherine Pechon <span class="msg-time float-end">15
                                                     min ago</span></h6>
                                             <p class="msg-info">Making this the first true generator</p>
                                         </div>
@@ -420,12 +416,10 @@
                                 <a class="dropdown-item" href="javascript:;">
                                     <div class="d-flex align-items-center">
                                         <div class="notify bg-light-primary">
-                                            <img src="assets/images/app/github.png" width="25"
-                                                alt="user avatar">
+                                            <img src="assets/images/app/github.png" width="25" alt="user avatar">
                                         </div>
                                         <div class="flex-grow-1">
-                                            <h6 class="msg-name">New 24 authors<span
-                                                    class="msg-time float-end">1 day
+                                            <h6 class="msg-name">New 24 authors<span class="msg-time float-end">1 day
                                                     ago</span></h6>
                                             <p class="msg-info">24 new authors joined last week</p>
                                         </div>
@@ -438,8 +432,7 @@
                                                 alt="user avatar">
                                         </div>
                                         <div class="flex-grow-1">
-                                            <h6 class="msg-name">Peter Costanzo <span
-                                                    class="msg-time float-end">6 hrs
+                                            <h6 class="msg-name">Peter Costanzo <span class="msg-time float-end">6 hrs
                                                     ago</span></h6>
                                             <p class="msg-info">It was popularised in the 1960s</p>
                                         </div>
@@ -454,8 +447,8 @@
                         </div>
                     </li>
                     <li class="nav-item dropdown dropdown-large">
-                        <a class="nav-link dropdown-toggle dropdown-toggle-nocaret position-relative"
-                            href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle dropdown-toggle-nocaret position-relative" href="#"
+                            role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             <span class="alert-count">8</span>
                             <i class='bx bx-shopping-bag'></i>
                         </a>
@@ -646,7 +639,8 @@
             <div class="user-box dropdown px-3">
                 <a class="d-flex align-items-center nav-link dropdown-toggle dropdown-toggle-nocaret gap-3"
                     href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    <img src="assets/images/avatars/avatar-2.png" class="user-img" alt="user avatar">
+                    <img src="{{ asset('backend/assets/images/avatars/avatar-2.png') }}" class="user-img"
+                        alt="user avatar">
                     <div class="user-info">
                         <p class="user-name mb-0">Pauline Seitz</p>
                         <p class="designattion mb-0">Web Designer</p>
@@ -671,7 +665,7 @@
                     <li>
                         <div class="dropdown-divider mb-0"></div>
                     </li>
-                    <li><a class="dropdown-item d-flex align-items-center" href="javascript:;"><i
+                    <li><a class="dropdown-item d-flex align-items-center" href="{{route('admin.logout')}}"><i
                                 class="bx bx-log-out-circle"></i><span>Logout</span></a>
                     </li>
                 </ul>
